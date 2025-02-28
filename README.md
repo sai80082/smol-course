@@ -32,9 +32,10 @@ This course provides a practical, hands-on approach to working with small langua
 | [Preference Alignment](./2_preference_alignment) | Explore DPO and ORPO techniques for aligning models with human preferences | ✅ Ready  | Dec 6, 2024 |
 | [Parameter-efficient Fine-tuning](./3_parameter_efficient_finetuning) | Learn LoRA, prompt tuning, and efficient adaptation methods | ✅ Ready | Dec 9, 2024 |
 | [Evaluation](./4_evaluation) | Use automatic benchmarks and create custom domain evaluations | ✅ Ready | Dec 13, 2024 |
-| [Vision-language Models](./5_vision_language_models) | Adapt multimodal models for vision-language tasks | [🚧 WIP](https://github.com/huggingface/smol-course/issues/49) | Dec 16, 2024 |
-| [Synthetic Datasets](./6_synthetic_datasets) | Create and validate synthetic datasets for training | [🚧 WIP](https://github.com/huggingface/smol-course/issues/83) | Dec 20, 2024 |
-| [Inference](./7_inference) | Infer with models efficiently | 📝 Planned | Dec 23, 2024 |
+| [Vision-language Models](./5_vision_language_models) | Adapt multimodal models for vision-language tasks | ✅ Ready | Dec 16, 2024 |
+| [Synthetic Datasets](./6_synthetic_datasets) | Create and validate synthetic datasets for training | ✅ Ready | Dec 20, 2024 |
+| [Inference](./7_inference) | Infer with models efficiently | ✅ Ready | Jan 8, 2025 |
+| [Agents](./8_agents) | Build your own agentic AI | ✅ Ready | Jan 13, 2025 ||
 
 ## Why Small Language Models?
 
@@ -86,8 +87,3 @@ pip install -r requirements.txt
 pip install transformers trl datasets huggingface_hub
 ```
 
-## Engagement
-
-Let's share this, so that loads of people can learn to finetune LLMs without expensive hardware.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=huggingface/smol-course&type=Date)](https://star-history.com/#huggingface/smol-course&Date)
